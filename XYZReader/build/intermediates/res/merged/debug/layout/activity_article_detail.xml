@@ -9,11 +9,10 @@
 
     <FrameLayout
         android:id="@+id/up_container"
-        android:background="@android:color/transparent"
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize">
 
-        <ImageButton
+            <ImageButton
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
             android:id="@+id/action_up"
             android:layout_width="56dp"
