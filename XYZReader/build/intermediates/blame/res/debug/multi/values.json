@@ -1379,7 +1379,14 @@
                     "endOffset": 21864
                 },
                 "from": {
-                    "file": "X:\\Development\\Android\\Nanodegree\\xyzreader\\XYZReader\\src\\main\\res\\values\\dimens.xml"
+                    "file": "X:\\Development\\Android\\Nanodegree\\xyzreader\\XYZReader\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 52,
+                        "endOffset": 138
+                    }
                 }
             },
             {

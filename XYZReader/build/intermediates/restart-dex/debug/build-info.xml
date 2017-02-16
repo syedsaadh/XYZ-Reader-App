@@ -5,7 +5,7 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="26612147395341"
+    timestamp="89994954673470"
     token="3282569247797216354"
     verifier="COMPATIBLE" >
 
@@ -27,31 +27,11 @@
         type="RESOURCES" />
 
     <build
-        timestamp="25681140028947"
+        timestamp="89731777500910"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="X:\Development\Android\Nanodegree\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="25860349540858"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="X:\Development\Android\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="26338782337648"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="X:\Development\Android\Nanodegree\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="X:\Development\Android\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="X:\Development\Android\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
     </build>
     <build
         timestamp="193704707748035"
