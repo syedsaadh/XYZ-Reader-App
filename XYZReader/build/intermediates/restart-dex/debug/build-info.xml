@@ -5,9 +5,9 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="92687706406665"
+    timestamp="170554149241245"
     token="3282569247797216354"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -27,18 +27,18 @@
         type="RESOURCES" />
 
     <build
-        timestamp="92318977629202"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="170156183373441"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="X:\Development\Android\Nanodegree\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="92502092821032"
+        timestamp="170554149241245"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="X:\Development\Android\Nanodegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
+            location="X:\Development\Android\Nanodegree\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
     <build
         timestamp="193704707748035"
